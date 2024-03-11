@@ -1,0 +1,5 @@
+server=localhost
+user=root
+database=ukol
+port=3306
+password=rootroot
