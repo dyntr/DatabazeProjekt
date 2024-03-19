@@ -45,5 +45,5 @@ Tento projekt byl vyvinut Patrickem Dyntrem z C3b
 
 ---
 
-Díky za použití naší ukázkové databázové aplikace! Máte-li jakékoliv dotazy nebo zpětnou vazbu, neváhejte mě kontaktovat.
+Máte-li jakékoliv dotazy nebo zpětnou vazbu, neváhejte mě kontaktovat.
 
